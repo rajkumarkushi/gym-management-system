@@ -1,0 +1,15 @@
+.custom-calendar {
+    width: 100%;
+    background-color: transparent !important;
+    border: none !important;
+    color: white !important;
+  }
+  
+  .custom-calendar button {
+    color: white !important;
+  }
+  
+  .custom-calendar .react-calendar__tile--active {
+    background: #FFD700 !important;
+    color: black !important;
+  }
